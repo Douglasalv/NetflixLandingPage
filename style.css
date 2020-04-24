@@ -300,6 +300,10 @@ ul {
 
 }
 
+.btn-icon{
+    margin-left: 1rem;
+}
+
 .text-center{
     text-align: center;
 }
